@@ -6,8 +6,8 @@ public class LogTest {
 	private static Logger logger = LogManager.getLogger(LogTest.class.getName());
 
 	public static void main(String[] args) {
-			logger.warn("¨S¦³­Ó¤H¸ê®Æ!");
-			logger.warn("´ú¸ÕLogstash");
+			logger.warn("æ²’æœ‰å€‹äººè³‡æ–™!");
+			logger.warn("æ¸¬è©¦Logstash");
 			logger.info("No: row");
 	}
 }
